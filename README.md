@@ -1,5 +1,5 @@
 # Sales-Data-Customer-Segmentation
-This project demonstrates analysis of sales data and customer segmentation in Python's Pandas, Matplotlib, Seaborn & Ski-kitLearn. There are 2 x Python scripts, one for the data profiling, analysis, and visualisation, and the other for Customer Segmentation using unsupervised machine learning. There is also a demonstration PPT presentation. Some of the Matplotlib charts are reproduced below.
+This project demonstrates analysis of sales data and customer segmentation in Python's Pandas, Matplotlib, Seaborn & Ski-kitLearn. There are 2 x Python scripts, one for the data profiling, analysis, and visualisation, and the other giving examples of Customer Segmentation using unsupervised machine learning. There is also a demonstration PPT presentation. Some of the Matplotlib charts are reproduced below.
 
 1. Top 20 Products and Quantity Sold
 ![Top20Products](https://github.com/aloysius109/Sales-Data-Customer-Segmentation/assets/92214796/948a7767-a883-409e-a79a-8018ea23dd3c)
